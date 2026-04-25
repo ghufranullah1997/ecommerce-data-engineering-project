@@ -1,0 +1,17 @@
+﻿payment_id,order_id,payment_method,payment_status,payment_amount,payment_date
+PAY001,O001,card,paid,1029.98,2025-02-01 14:25:00
+PAY002,O002,bank_transfer,paid,159.98,2025-02-02 10:15:00
+PAY003,O003,card,refunded,129.99,2025-02-05 18:50:00
+PAY004,O004,card,paid,699.99,2025-02-06 12:35:00
+PAY005,O005,card,paid,999.98,2025-02-07 09:20:00
+PAY006,O006,paypal,paid,249.99,2025-02-08 16:45:00
+PAY007,O007,card,pending,149.97,2025-02-09 11:25:00
+PAY008,O008,bank_transfer,paid,59.98,2025-02-10 14:00:00
+PAY009,O009,card,paid,59.99,2025-02-11 17:15:00
+PAY010,O010,card,paid,149.99,2025-02-12 08:50:00
+PAY011,O011,paypal,pending,999.99,2025-02-13 19:30:00
+PAY012,O012,card,paid,239.98,2025-02-14 15:40:00
+PAY013,O013,card,refunded,299.99,2025-02-15 10:10:00
+PAY014,O014,bank_transfer,paid,549.99,2025-02-16 14:55:00
+PAY015,O015,card,paid,179.98,2025-02-17 18:20:00
+PAY016,O016,paypal,paid,979.98,2025-02-18 12:05:00

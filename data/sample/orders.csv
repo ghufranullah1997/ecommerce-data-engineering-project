@@ -1,0 +1,17 @@
+﻿order_id,customer_id,order_date,order_status,shipping_city,shipping_country
+O001,C001,2025-02-01 14:20:00,completed,Turku,Finland
+O002,C002,2025-02-02 10:10:00,completed,Helsinki,Finland
+O003,C001,2025-02-05 18:45:00,cancelled,Turku,Finland
+O004,C003,2025-02-06 12:30:00,completed,Tampere,Finland
+O005,C004,2025-02-07 09:15:00,shipped,Espoo,Finland
+O006,C005,2025-02-08 16:40:00,completed,Vantaa,Finland
+O007,C006,2025-02-09 11:20:00,processing,Oulu,Finland
+O008,C007,2025-02-10 13:55:00,completed,Lahti,Finland
+O009,C008,2025-02-11 17:10:00,shipped,Kuopio,Finland
+O010,C009,2025-02-12 08:45:00,completed,Jyvaskyla,Finland
+O011,C010,2025-02-13 19:25:00,processing,Pori,Finland
+O012,C011,2025-02-14 15:35:00,completed,Lappeenranta,Finland
+O013,C012,2025-02-15 10:05:00,cancelled,Vaasa,Finland
+O014,C013,2025-02-16 14:50:00,completed,Joensuu,Finland
+O015,C014,2025-02-17 18:15:00,shipped,Hameenlinna,Finland
+O016,C015,2025-02-18 12:00:00,completed,Rovaniemi,Finland

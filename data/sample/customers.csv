@@ -1,0 +1,16 @@
+﻿customer_id,first_name,last_name,email,city,country,signup_date
+C001,Aisha,Khan,aisha@example.com,Turku,Finland,2025-01-10
+C002,Omar,Ali,omar@example.com,Helsinki,Finland,2025-01-12
+C003,Sara,Ahmed,sara@example.com,Tampere,Finland,2025-01-15
+C004,John,Smith,john.smith@example.com,Espoo,Finland,2025-01-18
+C005,Emma,Johnson,emma.j@example.com,Vantaa,Finland,2025-01-20
+C006,Liam,Brown,liam.b@example.com,Oulu,Finland,2025-01-22
+C007,Noah,Davis,noah.d@example.com,Lahti,Finland,2025-01-25
+C008,Olivia,Wilson,olivia.w@example.com,Kuopio,Finland,2025-01-28
+C009,Elijah,Moore,elijah.m@example.com,Jyvaskyla,Finland,2025-02-01
+C010,Ava,Taylor,ava.t@example.com,Pori,Finland,2025-02-03
+C011,William,Anderson,will.a@example.com,Lappeenranta,Finland,2025-02-05
+C012,Sophia,Thomas,sophia.t@example.com,Vaasa,Finland,2025-02-08
+C013,James,Jackson,james.j@example.com,Joensuu,Finland,2025-02-10
+C014,Isabella,White,isabella.w@example.com,Hameenlinna,Finland,2025-02-12
+C015,Benjamin,Harris,ben.h@example.com,Rovaniemi,Finland,2025-02-15

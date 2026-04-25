@@ -1,0 +1,17 @@
+﻿review_id,customer_id,product_id,rating,review_text,review_date
+R001,C001,P001,5,Good laptop,2025-02-10 12:00:00
+R002,C002,P003,4,Useful product,2025-02-11 13:30:00
+R003,C001,P002,3,Average sound quality,2025-02-12 09:15:00
+R004,C003,P004,5,Excellent phone,2025-02-13 10:20:00
+R005,C004,P005,4,Very handy tablet,2025-02-14 11:45:00
+R006,C005,P006,4,Clear display,2025-02-15 14:10:00
+R007,C006,P007,3,Decent keyboard,2025-02-16 16:30:00
+R008,C007,P008,4,Smooth mouse usage,2025-02-17 09:25:00
+R009,C008,P009,5,Blends well,2025-02-18 12:50:00
+R010,C009,P010,4,Heats quickly,2025-02-19 13:40:00
+R011,C010,P011,5,Spacious fridge,2025-02-20 15:15:00
+R012,C011,P012,4,Healthy cooking,2025-02-21 17:05:00
+R013,C012,P013,3,Battery could improve,2025-02-22 10:35:00
+R014,C013,P014,5,Great camera quality,2025-02-23 11:55:00
+R015,C014,P015,4,Good sound output,2025-02-24 14:20:00
+R016,C015,P001,5,Very fast performance,2025-02-25 16:45:00
